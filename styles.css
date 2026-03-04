@@ -1,0 +1,29 @@
+*
+.demon-list {
+    padding: 10px;
+    border: 2px solid #ff0000;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    gap: 20px;
+}
+
+.easy-list {
+    color:blueviolet
+}
+
+.medium-list {
+    color:rgb(226, 43, 205)
+}
+
+.hard-list {
+    color:rgb(255, 0, 0)
+}
+
+.insane-list {
+    color:rgb(195, 0, 0)
+}
+
+.extreme-list {
+    color:rgb(126, 0, 0)
+}
